@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ML Booster</string>
+    <string name="accessibility_description">ML Booster Auto-Boost: Detects when Mobile Legends is launched to apply optimization settings automatically.</string>
+</resources>
